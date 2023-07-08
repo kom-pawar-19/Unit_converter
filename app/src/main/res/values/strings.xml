@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">UNIT CONVERTER APPLICATION</string>
+    <string-array name="units">
+        <item>Meter</item>
+        <item>Centimeter</item>
+        <item>Kilogram</item>
+        <item>Gram</item>
+        <item>Inch</item>
+        <item>Feet</item>
+        <item>Liter</item>
+        <item>Milliliter</item>
+        <!-- Add more units as needed -->
+    </string-array>
+
+
+</resources>
